@@ -1,7 +1,7 @@
 name: Tanzania Explorer
 favicon: null
-layout_spectrum: 0.4015836345497519
-typography_spectrum: 0.09936944930814207
+layout_spectrum: 1
+typography_spectrum: 0.47555
 title: '- we show you Africa...'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#0072a7'
+    - '#242b2c'
+    - '#e1e1e1'
+    - '#62af6c'
+    - '#ffff00'
   brandStrength: 0.8128974309656769
   lightness: 0.08961566281504929
-  saturation: 0.7591446943115443
+  saturation: 0.75
   rhythmicContrast: 0.7904803305864334
 purpose: []
