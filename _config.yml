@@ -1,0 +1,28 @@
+name: Tanzania Explorer
+favicon: null
+layout_spectrum: 0.4015836345497519
+typography_spectrum: 0.09936944930814207
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8128974309656769
+  lightness: 0.08961566281504929
+  saturation: 0.7591446943115443
+  rhythmicContrast: 0.7904803305864334
+purpose: []
