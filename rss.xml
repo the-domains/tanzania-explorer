@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[- we show you Africa...]]></title>
+        <description><![CDATA[- we show you Africa...]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Feb 2016 17:12:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f948db13-510e-40a1-8950-5a9704ad9867.jpg">]]></description>
+            <link>undefinedd431a3d4-d414-4360-b1c3-41ae2367e54e/index.html</link>
+            <guid isPermaLink="false">d431a3d4-d414-4360-b1c3-41ae2367e54e</guid>
+            <pubDate>Sat, 13 Feb 2016 17:12:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
